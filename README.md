@@ -1,6 +1,6 @@
-Portfolio Analyzer
+# Portfolio Analyzer
 This is a Streamlit-based web application that allows users to input their stock portfolio and receive a comprehensive analysis, including standard and creative metrics. Designed for beginner to intermediate investors, it provides insights into performance, risk, diversification, and future-oriented trends.
-Features
+### Features
 
 Portfolio Input: Users can enter stock symbols (e.g., AAPL) and quantities.
 Standard Metrics:
