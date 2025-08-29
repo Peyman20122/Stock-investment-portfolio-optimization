@@ -67,8 +67,6 @@ This is a **Streamlit**-based web application that allows users to input their s
 - Use **Streamlit Cloud** (free for small projects) or Heroku for online deployment.
 - Purchase a custom domain (e.g., portfolioanalyzer.ir) from Namecheap and connect it.
 
-## Developers
-Developed by Grok (xAI) for beginner to intermediate investors. Contact us for questions or contributions.
 
 ## License
 MIT License - Free to use and modify with attribution.
